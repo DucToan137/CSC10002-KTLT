@@ -112,26 +112,32 @@ int nAk(int n, int k) {
 
 
 int main() {
-
 	// MÃ ĐI TUẦN
-    //int banco[8][8];
-    //int start_d = 0; 
-    //int start_c = 0; 
-
-    //NuocDi(1, 0, 0); // Bắt đầu từ nước đi thứ 1, tại vị trí dòng 0, cột 0 (tức là A1)
-
-    //banco[start_d][start_c] = 1; // Vị trí bắt đầu của quân mã
-    //NuocDi(2, start_d, start_c);
+	//int banco[8][8];
+	//int start_d = 0; 
+	//int start_c = 0; 
+	
+	//NuocDi(1, 0, 0); // Bắt đầu từ nước đi thứ 1, tại vị trí dòng 0, cột 0 (tức là A1)
+	
+	//banco[start_d][start_c] = 1; // Vị trí bắt đầu của quân mã
+	//NuocDi(2, start_d, start_c);
 	/////////////////////////////////////////////////////////////////////
-
+	
 	// N QUÂN HẬU
-
-	int n = 8;// 8 quân hậu trên bàn 8*8
-	Try(1, n);
-	return 0;
-
-
-
+	
+	//int n = 8;// 8 quân hậu trên bàn 8*8
+	//Try(1, n);
+	//return 0;
+	/////////////////////////////////////////////////////////////////////
+	
+	// THÁP HÀ NỘI
+	/*cout << "Nhap so dia: ";
+	int n;
+	cin >> n;
+	
+	Tower(n, 1, 2, 3);*/
+	/////////////////////////////////////////////////////////////////////
+	
 
     return 0;
 }
