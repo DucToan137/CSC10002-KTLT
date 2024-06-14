@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DayConTangDaiNhat", "DayCon
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaiToanCaiTui", "BaiToanCaiTui\BaiToanCaiTui.vcxproj", "{EAF64E9F-33DB-44F9-9BEF-460FAAD63614}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TapConCoTongBangS", "TapConCoTongBangS\TapConCoTongBangS.vcxproj", "{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{EAF64E9F-33DB-44F9-9BEF-460FAAD63614}.Release|x64.Build.0 = Release|x64
 		{EAF64E9F-33DB-44F9-9BEF-460FAAD63614}.Release|x86.ActiveCfg = Release|Win32
 		{EAF64E9F-33DB-44F9-9BEF-460FAAD63614}.Release|x86.Build.0 = Release|Win32
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Debug|x64.ActiveCfg = Debug|x64
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Debug|x64.Build.0 = Debug|x64
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Debug|x86.Build.0 = Debug|Win32
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Release|x64.ActiveCfg = Release|x64
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Release|x64.Build.0 = Release|x64
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Release|x86.ActiveCfg = Release|Win32
+		{DA1D3D6B-D643-48A8-BCBD-CEE92AAFA195}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
