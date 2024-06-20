@@ -1,0 +1,21 @@
+x = 5
+y = 10
+
+x = 15
+y = 5
+x = 10
+
+Result 1: 10
+y = 3
+z = &y
+z++ = &y + 4
+
+Result 2: 3
+y = 2
+z = &y - 4
+
+Result 3: có thể là giá trị rác (Hoặc là giá giá trị của x -> khi mà địa chỉ của y nằm cạnh địa chỉ của x và khi 
+tăng lên 1 vị trí của x -> In ra 10)
+(Tùy theo trình biên dịch)
+
+Result 4: &y(Địa chỉ biến y)
