@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TapConCoTongBangS", "TapCon
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XauConDoiXungDaiNhat", "XauConDoiXungDaiNhat\XauConDoiXungDaiNhat.vcxproj", "{D6FC1899-9C77-403A-A2FD-576B4484F833}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XauConChungDaiNhat", "XauConChungDaiNhat\XauConChungDaiNhat.vcxproj", "{57F4D34E-242A-449C-989A-C8B7081FFB91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D6FC1899-9C77-403A-A2FD-576B4484F833}.Release|x64.Build.0 = Release|x64
 		{D6FC1899-9C77-403A-A2FD-576B4484F833}.Release|x86.ActiveCfg = Release|Win32
 		{D6FC1899-9C77-403A-A2FD-576B4484F833}.Release|x86.Build.0 = Release|Win32
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Debug|x64.ActiveCfg = Debug|x64
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Debug|x64.Build.0 = Debug|x64
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Debug|x86.ActiveCfg = Debug|Win32
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Debug|x86.Build.0 = Debug|Win32
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Release|x64.ActiveCfg = Release|x64
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Release|x64.Build.0 = Release|x64
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Release|x86.ActiveCfg = Release|Win32
+		{57F4D34E-242A-449C-989A-C8B7081FFB91}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
