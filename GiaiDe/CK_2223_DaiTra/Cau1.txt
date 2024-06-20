@@ -1,0 +1,3 @@
+a)
+- Ưu điểm
+    + Có thể thêm/xóa phần tử nhanh ở đầu danh sách hoặc cuối danh sách với độ phức tạp là O(1)
